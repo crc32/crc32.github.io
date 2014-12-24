@@ -1,0 +1,13 @@
+<Response>
+<Dial>
+<Sip>
+<Uri username="twilio1" password="Ghohigp13542amamakE">1234@24.172.61.162</Uri>
+<Uri username="twilio2" password="Ghohigp13542amamakE">1234@24.172.61.162</Uri>
+<Uri username="twilio3" password="Ghohigp13542amamakE">1234@24.172.61.162</Uri>
+<Uri username="twilio4" password="Ghohigp13542amamakE">1234@24.172.61.162</Uri>
+<Uri username="twilio5" password="Ghohigp13542amamakE">1234@24.172.61.162</Uri>
+<Uri username="twilio6" password="Ghohigp13542amamakE">1234@24.172.61.162</Uri>
+<Uri username="twilio7" password="Ghohigp13542amamakE">1234@24.172.61.162</Uri>
+</Sip>
+</Dial>
+</Response>
