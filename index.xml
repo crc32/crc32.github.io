@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Colin Crossman&#39;s CV</title>
+    <title>Colin Crossman&#39;s CV on Colin Crossman</title>
     <link>https://crc32.com/</link>
-    <description>Recent content on Colin Crossman&#39;s CV</description>
+    <description>Recent content in Colin Crossman&#39;s CV on Colin Crossman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Dec 2020 11:34:14 -0500</lastBuildDate><atom:link href="https://crc32.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Oct 2021 11:34:14 -0500</lastBuildDate><atom:link href="https://crc32.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Colin Crossman&#39;s CV</title>
       <link>https://crc32.com/about/</link>
-      <pubDate>Fri, 04 Dec 2020 11:34:14 -0500</pubDate>
+      <pubDate>Wed, 06 Oct 2021 11:34:14 -0500</pubDate>
       
       <guid>https://crc32.com/about/</guid>
       <description>Experience Rhea Hospitality Principal and Manager | Cary, NC &amp;amp; Las Vegas, NV | November 2007 - Present
@@ -20,11 +20,21 @@
     <item>
       <title>Colin Crossman&#39;s CV</title>
       <link>https://crc32.com/posts/my-cv/</link>
-      <pubDate>Fri, 04 Dec 2020 11:34:14 -0500</pubDate>
+      <pubDate>Wed, 06 Oct 2021 11:34:14 -0500</pubDate>
       
       <guid>https://crc32.com/posts/my-cv/</guid>
       <description>About Me Experience Rhea Hospitality Principal and Manager | Cary, NC &amp;amp; Las Vegas, NV | November 2007 - Present
  Raised $5.5M for acquisition and renovation of The Retreat on Charleston Peak, a hotel outside of Las Vegas. Lobbied for and negotiated a public-private partnership between Memento Mori, LLC and the Town of Cary, NC, for the construction of the Mayton Inn, a $14.5M, 45-room boutique hotel, with ~$4M in incentives and Town-backed loans.</description>
+    </item>
+    
+    <item>
+      <title>Bitcoin Resources</title>
+      <link>https://crc32.com/btc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://crc32.com/btc/</guid>
+      <description>Software &amp;amp; Tools (These are presented as affiliate links, if I have one)
+Getting Bitcoin  Swan Bitcoin, one of the best Dollar Cost Average (DCA) platforms out there. [https://www.swanbitcoin.com/crc32] Strike, possibly the easiest and cheapest way to get bitcoin, and send to others. $5 for signing up with my code: 8JZ9XT [https://invite.strike.me/8JZ9XT] Cash App, not the best or cheapest, but easy to use [https://cash.app] Fold Card, a prepaid debit card to earn bitcoin on every-day purchases.</description>
     </item>
     
     <item>
@@ -33,9 +43,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://crc32.com/contact/</guid>
-      <description>Contact  Phone: +1-919-336-1337 Email: colin@crc32.com  Physical Address  9909 Horton Road
-New Hill, NC 27562
- Social  Twitter @crc128 GitHub LinkedIn  </description>
+      <description>Contact  Phone: +1-919-336-1337 Email: colin@crc32.com  Physical Address 1903 South Greeley Hwy #322 Cheyenne, WY 82007  Social  Twitter @arceris_btc GitHub LinkedIn Telegram @arceris_btc  PGP -----BEGIN PGP PUBLIC KEY BLOCK----- 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 qTRm6A1iuxo= =AY8v -----END PGP PUBLIC KEY BLOCK-----  </description>
     </item>
     
   </channel>
