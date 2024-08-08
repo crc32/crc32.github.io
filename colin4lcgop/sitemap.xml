@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/colin4lcgop/</loc>
+    <lastmod>2024-08-05T09:34:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/colin4lcgop/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/colin4lcgop/long-text/</loc>
+  </url><url>
+    <loc>http://localhost:1313/colin4lcgop/tags/</loc>
+  </url>
+</urlset>
