@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Colin Crossman for LCGOP Precinct 1-5 on My New Hugo Site</title>
-    <link>http://localhost:1313/colin4lcgop/</link>
-    <description>Recent content in Colin Crossman for LCGOP Precinct 1-5 on My New Hugo Site</description>
+    <title>Colin Crossman for LCGOP Precinct 1-5 on Colin Crossman for Larame County GOP</title>
+    <link>https://crc32.com/colin4lcgop/</link>
+    <description>Recent content in Colin Crossman for LCGOP Precinct 1-5 on Colin Crossman for Larame County GOP</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Paid for and &amp;copy;2024 by Colin Crossman</copyright>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/colin4lcgop/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://crc32.com/colin4lcgop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Long Text</title>
-      <link>http://localhost:1313/colin4lcgop/long-text/</link>
+      <link>https://crc32.com/colin4lcgop/long-text/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/colin4lcgop/long-text/</guid>
+      <guid>https://crc32.com/colin4lcgop/long-text/</guid>
       <description>Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Nullam sagittis. Suspendisse pulvinar, augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc.</description>
     </item>
   </channel>
