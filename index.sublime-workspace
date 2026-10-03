@@ -1,0 +1,588 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"poo",
+				"pool_user"
+			],
+			[
+				"toml",
+				"toml_pool_conf"
+			],
+			[
+				"i",
+				"influx_string"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"vlan",
+				"vlan_list"
+			],
+			[
+				"n",
+				"no shutdown"
+			],
+			[
+				"pool",
+				"pool_url"
+			],
+			[
+				"po",
+				"pool_url"
+			],
+			[
+				"ip",
+				"ipaddress"
+			],
+			[
+				"as",
+				"asic_ip_stem"
+			],
+			[
+				"err",
+				"APIError"
+			],
+			[
+				"ur",
+				"pool_url"
+			],
+			[
+				"G",
+				"interface GigabitEthernet"
+			],
+			[
+				"co",
+				"config"
+			],
+			[
+				"miner",
+				"miner_count"
+			],
+			[
+				"get",
+				"get_version"
+			],
+			[
+				"p",
+				"pool_user"
+			],
+			[
+				"a",
+				"aggregate"
+			],
+			[
+				"for",
+				"format_mac"
+			],
+			[
+				"end",
+				"end_date"
+			],
+			[
+				"St",
+				"start_date"
+			],
+			[
+				"fo",
+				"format_date"
+			],
+			[
+				"sta",
+				"start_time"
+			],
+			[
+				"get_m",
+				"get_miners_from_pfsense"
+			],
+			[
+				"def",
+				"default_server"
+			],
+			[
+				"Bi",
+				"Bip44Changes"
+			],
+			[
+				"M",
+				"Mnemonic"
+			],
+			[
+				"lo",
+				"lookup"
+			],
+			[
+				"total",
+				"totalhash"
+			],
+			[
+				"l",
+				"lookup"
+			],
+			[
+				"sw",
+				"switchport"
+			],
+			[
+				"Miner",
+				"MinerNetworkRange"
+			],
+			[
+				"min",
+				"miner_network"
+			],
+			[
+				"get_min",
+				"get_miners_from_pfsense"
+			],
+			[
+				"power",
+				"power_list"
+			],
+			[
+				"mine",
+				"miner_data"
+			],
+			[
+				"c",
+				"creationTimeSeconds"
+			],
+			[
+				"m",
+				"mycron_old"
+			],
+			[
+				"ti",
+				"tick_counter"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"Prog",
+				"ProgressBar"
+			],
+			[
+				"xp",
+				"xpub_table"
+			],
+			[
+				"add",
+				"add_row"
+			],
+			[
+				"phrase",
+				"phrase_table"
+			],
+			[
+				"Bip39",
+				"Bip39Generator"
+			],
+			[
+				"pr",
+				"display_results"
+			],
+			[
+				"Bip",
+				"Bip39MnemonicGenerator"
+			],
+			[
+				"temp",
+				"temp_phrase"
+			],
+			[
+				"has",
+				"hashed_sha256"
+			],
+			[
+				"bip39_",
+				"bip39_hex"
+			],
+			[
+				"bip",
+				"bip39_hex"
+			],
+			[
+				"te",
+				"temp_bip39"
+			],
+			[
+				"b",
+				"bip39_string"
+			],
+			[
+				"bin",
+				"bin_result"
+			],
+			[
+				"bi",
+				"bip39_entropy"
+			],
+			[
+				"ma",
+				"max_entropy"
+			],
+			[
+				"spl",
+				"split_and_xor"
+			],
+			[
+				"bi39",
+				"bip39_bits"
+			],
+			[
+				"In",
+				"IncrementalBar"
+			],
+			[
+				"colle",
+				"collected_words"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Permute Lines: Reverse"
+			],
+			[
+				"reverse",
+				"Permute Lines: Reverse"
+			],
+			[
+				"json",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"css f",
+				"Format CSS: Expanded"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"cssl",
+				"CSSLint: Run CSSLint"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+			"?",
+			"go"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/crc32/Projects/WYCRA/themes/magnolia/layouts/pages/article.html",
+		"/Users/crc32/Projects/WYCRA/content/en/_index.md",
+		"/Users/crc32/Projects/WYCRA/content/en/pages/wyoming/chancery/_index.md",
+		"/Users/crc32/Projects/WYCRA/config/_default/languages/.en.toml",
+		"/Users/crc32/Projects/WYCRA/config/_default/config.toml",
+		"/Users/crc32/Projects/WYCRA/hugo.toml",
+		"/Users/crc32/Projects/WYCRA/content/en/pages/wyoming/index.html",
+		"/Users/crc32/Projects/WYCRA/public/wyoming/index.html",
+		"/Users/crc32/Projects/crc32-sitefiles/content/about.md",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1741360650/dh_mine_tailscale.json/home/crc32/minerInterface3/InfluxScan.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1741360180/dh_mine_tailscale.json/home/crc32/minerInterface3/InfluxScan2.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1741361471/dh_mine_tailscale.json/home/crc32/minerInterface3/config.toml",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1741362627/dh_mine_tailscale.json/home/crc32/minerInterface3/ScanTest.py",
+		"/Users/crc32/Downloads/payouts (1).csv",
+		"/Users/crc32/Downloads/Did Everything Just Change For Bitcoin_  _  Guest_ TC _ EP 93.txt",
+		"/Users/crc32/Downloads/extensions.conf",
+		"/Users/crc32/Downloads/DatumLogs",
+		"/Users/crc32/Library/Application Support/Sublime Text/Packages/User/sftp_servers/kimsufi.json",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1732389787/kimsufi.json/home/worshack/nginx.conf",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1732389935/kimsufi.json/home/worshack/default",
+		"/Users/crc32/Projects/name_check/20241119.csv",
+		"/Users/crc32/Projects/precinct/hugo.toml",
+		"/Users/crc32/Projects/precinct/content/_index.md",
+		"/Users/crc32/Projects/precinct/content/long-text.md",
+		"/Users/crc32/Downloads/xpub.exp",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1715788592/dh_mine_tailscale.json/home/crc32/minerInterface3/InfluxScan.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1715788373/dh_mine_tailscale.json/home/crc32/minerInterface/NewInfluxScan.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1714487321/dh_mine_tailscale.json/home/crc32/Projects/dh_telegram/pfsense.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1714487013/dh_mine_tailscale.json/home/crc32/Projects/dh_telegram/main.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1714487052/dh_mine_tailscale.json/home/crc32/Projects/dh_telegram/config.toml",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1715205093/dh_mine_tailscale.json/home/crc32/Projects/dh_telegram/data_structs.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1714418643/dh_mine_tailscale.json/home/crc32/Projects/dh_telegram/pfsense.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1714419385/dh_mine_tailscale.json/home/crc32/minerInterface/getMiner.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1714418405/dh_mine_tailscale.json/home/crc32/Projects/dh_telegram/main.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1714420581/dh_mine_tailscale.json/home/crc32/minerInterface/pfsense.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1714419572/dh_mine_tailscale.json/home/crc32/Projects/dh_telegram/pfsense.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1714071201/dh_mine_tailscale.json/home/crc32/minerInterface/getMiner.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1713578912/dh_mine_tailscale.json/home/crc32/minerInterface/getMiner.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1711907539/asterisk_internal.json/etc/asterisk/modules.conf",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1711916760/asterisk_internal.json/var/lib/asterisk/digium_phones/fdcontacts.xml",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1711916627/asterisk_internal.json/var/lib/asterisk/digium_phones/frontdeskblf.xml",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1711906129/asterisk_internal.json/etc/asterisk/pjsip_wizard.conf",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1711906093/asterisk_internal.json/etc/asterisk/pjsip.conf",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1711916350/asterisk_internal.json/etc/asterisk/extensions.conf",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1711905902/asterisk_internal.json/etc/asterisk/res_digium_phone.conf",
+		"/Volumes/NO NAME/export-MdZCXSj2.txt",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1711149942/dh_mine_tailscale.json/home/crc32/Billing.py",
+		"/Users/crc32/Documents/ezChecks/Personal BK Payees 2.csv",
+		"/Users/crc32/Documents/ezChecks/Personal BK Paid in Full 20210701.csv",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1710710794/dh_mine_tailscale.json/home/crc32/minerInterface3/getMiner.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1710710995/dh_mine_tailscale.json/home/crc32/minerInterface3/InfluxScan.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1710711177/dh_mine_tailscale.json/home/crc32/minerInterface3/config.toml",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1709576021/dh_mine_tailscale.json/home/crc32/minerInterface3/getMiner.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1709575315/dh_mine_tailscale.json/home/crc32/minerInterface/getMiner.py",
+		"/Users/crc32/Downloads/10.10.23.10/topol.conf",
+		"/Users/crc32/Documents/SyncVault/.obsidian/snippets/academic-pdf.css",
+		"/Users/crc32/Documents/SyncVault/.obsidian/snippets/print.css",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1705797406/dh_mine_server_1/home/crc32/minerInterface3/config.toml",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1705797270/dh_mine_server_1/home/crc32/minerInterface3/InfluxScan.py",
+		"/Users/crc32/Projects/pools.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1703458284/dh_mine_server_1/home/crc32/minerInterface3/config.toml",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1703458754/dh_mine_server_1/home/crc32/minerInterface3/pyasic/miners/backends/bosminer.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1703459159/dh_mine_server_1/home/crc32/minerInterface3/pyasic/miners/backends/btminer.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1703457598/dh_mine_server_1/home/crc32/minerInterface3/InfluxScan.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1703457987/dh_mine_server_1/home/crc32/minerInterface3/pyproject.toml",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1703444056/dh_mine_server_1/home/crc32/minerInterface/NewInfluxScan.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1703445257/dh_mine_server_1/home/crc32/Projects/dh_telegram/pfsense.py",
+		"/Users/crc32/Projects/getMiner.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1703444246/dh_mine_server_1/home/crc32/minerInterface/getMiner.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1703447149/dh_mine_server_1/home/crc32/minerInterface/pfsense.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1703458001/dh_mine_server_1/home/crc32/minerInterface3/pyasic-current/pyproject.toml",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1703447099/dh_mine_server_1/home/crc32/Projects/dh_telegram/pfsense.py",
+		"/Users/crc32/Projects/dh_telegram/pyproject.toml",
+		"/Users/crc32/Projects/name_check/pyproject.toml",
+		"/Users/crc32/Projects/keyhunt/secp256k1/Random.cpp",
+		"/Users/crc32/Projects/keyhunt/gmp256k1/Random.cpp",
+		"/Users/crc32/Projects/keyhunt/Makefile",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1699803661/dh_mine_server_1/home/crc32/minerInterface3/InfluxScan.py",
+		"/Users/crc32/Projects/name_check/poetry.lock",
+		"/Users/crc32/Projects/poetry.lock",
+		"/Users/crc32/Projects/pyproject.toml",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1695669044/dh_mine_tailscale.json/home/crc32/minerInterface/NewInfluxScan.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1695669313/dh_mine_tailscale.json/home/crc32/minerInterface/getMiner.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1695669417/dh_mine_tailscale.json/home/crc32/minerInterface/pyasic/miners/miner_factory.py",
+		"/Users/crc32/Library/Application Support/Sublime Text/Packages/User/sftp_servers/dh_mine_tailscale.json",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1695573365/dh_mine_server_1/home/crc32/minerInterface/getMiner.py",
+		"/Users/crc32/Projects/upstream_config_util2/pyasic3/miners/miner_factory.py",
+		"/Users/crc32/Projects/upstream_config_util/pyasic/miners/miner_factory.py",
+		"/Users/crc32/Projects/upstream_config_util2/pyasic/miners/__init__.py",
+		"/Users/crc32/Projects/upstream_config_util/pyasic/miners/base.py",
+		"/Users/crc32/Projects/upstream_config_util/pyasic/miners/__init__.py",
+		"/Users/crc32/Projects/upstream_config_util/pyasic/miners/whatsminer/btminer/M5X/M50.py",
+		"/Users/crc32/Projects/upstream_config_util/pyasic/miners/_types/whatsminer/M5X/M50.py",
+		"/Users/crc32/Projects/upstream_config_util/pyasic/miners/_types/whatsminer/__init__.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1693143228/dh_mine_server_1/home/crc32/minerInterface/config.toml",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1692750673/dh_mine_server_1/home/crc32/Projects/dh_telegram/InfluxScan.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1692748194/dh_mine_server_1/home/crc32/minerInterface/NewInfluxScan.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1692748130/dh_mine_server_1/home/crc32/minerInterface/pfsense.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1692748180/dh_mine_server_1/home/crc32/minerInterface/InfluxScan.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1692726653/dh_mine_server_1/home/crc32/minerInterface/NewInfluxScan.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1692723750/dh_mine_server_1/home/crc32/minerInterface/pfsense.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1689295751/dh_mine_server_1/home/crc32/minerInterface/getMiner.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1689295435/dh_mine_server_1/home/crc32/Projects/dh_telegram/config.toml",
+		"/private/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1682868565/dh_mine_server_1/home/crc32/minerInterface/getMiner.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1682274894/dh_mine_server_1/home/crc32/minerInterface/getMiner.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1681089599/dh_mine_server_1/home/crc32/minerInterface/getMiner.py",
+		"/Users/crc32/Projects/Shroud/Description 2",
+		"/Users/crc32/Projects/Shroud/Description 1",
+		"/Users/crc32/Dropbox (Rhea Hospitality)/Distributed Hash/Logs/Oshi/FFE2 Log 20221230",
+		"/Users/crc32/Dropbox (Rhea Hospitality)/Distributed Hash/Logs/Ryan-34-logs/Old-FW-2-boards",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1678812449/dh_mine_server_1/home/crc32/minerInterface/getMiner.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1677724246/dh_mine_server_1/home/crc32/minerInterface/pyasic/API/btminer.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1677722484/dh_mine_server_1/home/crc32/minerInterface/NewInfluxScan.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1677722102/dh_mine_server_1/home/crc32/minerInterface/for_guy.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1677721317/dh_mine_server_1/home/crc32/minerInterface/getMiner.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1677720981/dh_mine_server_1/home/crc32/minerInterface/getMiner.py",
+		"/Users/crc32/Projects/bip85/bip85/app.py",
+		"/Users/crc32/Projects/pyasic/pyasic/API/bmminer.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1670950967/dh_mine_server_1/home/crc32/minerInterface/pyasic/miners/_backends/btminer.py",
+		"/Users/crc32/Downloads/S19-CURRENT-LOG.txt",
+		"/Users/crc32/Downloads/s19-LOG-12-14-22.txt",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1670951431/dh_mine_server_1/home/crc32/minerInterface/pyasic/API/btminer.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1670025031/dh_mine_server_1/home/crc32/minerInterface/InfluxScan.py",
+		"/Users/crc32/Documents/block_scraper.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1669848236/dh_mine_server_1/home/crc32/minerInterface/getMiner.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1669837478/dh_mine_server_1/home/crc32/minerInterface/InfluxScan.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1668379645/dh_mine_server_1/home/crc32/minerInterface/getMiner.py",
+		"/var/folders/vv/_vz6vf1s7fx79s7gx5jxjz700000gn/T/sublime-sftp-browse-1668380010/dh_mine_server_1/home/crc32/minerInterface/InfluxScan.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
